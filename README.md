@@ -3,6 +3,5 @@ Latihan Java: Membuat kelas Person dengan konstruktor, getter, setter, dan metod
 
 Selama menjalankan kode ini, saya menghadapi beberapa tantangan.
 ## Tantangan dan Solusi
-## Tantangan dan Solusi
 * **Tantangan:** Output program tidak otomatis diperbarui setelah perubahan kode dilakukan.
     * **Solusi:** Memahami bahwa perubahan pada kode Java (.java) tidak langsung tercermin pada output. Diperlukan kompilasi ulang menggunakan perintah `javac PersonDemo.java` lalu `java PersonDemo` agar output program menampilkan hasil perubahan terbaru.
